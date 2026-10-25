@@ -1,2 +1,0 @@
-b_Data/myAstro
-b_Data/myfeed
