@@ -1,0 +1,61 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "z-archived_front-feeds",
+  "label": "z-archived_front-feeds",
+  "code": "8.1.2.2",
+  "kind": "repo",
+  "variant": "archived",
+  "description": "Front group b_Data (split from front-projects, #1072)",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/z-archived_front-feeds",
+  "developer": "Z-archived",
+  "farm": "8.Archived",
+  "breadcrumb": [
+    {
+      "code": "8",
+      "kind": "area",
+      "label": "Archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1",
+      "kind": "project",
+      "label": "Z-archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1.2",
+      "kind": "family",
+      "label": "Front",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "z-archived-___",
+    "code": "8.0",
+    "url": "https://github.com/diegonmarcos/z-archived-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── 0_deployer (submodule)",
+    "├── 0_hub/",
+    "│   └── z-archived-___ (submodule)",
+    "└── b_Data/",
+    "    ├── myAstro/",
+    "    │   ├── dist/",
+    "    │   ├── myAstro_life_old/",
+    "    │   ├── public/",
+    "    │   └── src/",
+    "    └── myfeed/",
+    "        ├── 0.spec/",
+    "        ├── dist/",
+    "        ├── public/",
+    "        └── src/"
+  ],
+  "old_names": [
+    "front-feeds"
+  ],
+  "history": "Superseded 2026-10-25 (#1196): its projects moved into CG-circus; renamed z-archived_front-feeds, to be archived on GitHub (owner click)"
+}
